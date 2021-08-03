@@ -7,7 +7,8 @@
     2. cd pdfcrack && chmod +x crack.sh
     
 # Requirements:
-    Just sudo apt-get update before running the script!
+    Just Type the following command before running the script!
+    sudo apt-get update -y
     
 # Usage:
     1. sudo ./crack.sh
