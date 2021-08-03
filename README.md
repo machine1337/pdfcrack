@@ -13,6 +13,8 @@
 # Usage:
     1. sudo ./crack.sh
     
+# How To Use:
+   https://www.youtube.com/watch?v=qSW_50TrObc
 # Features:
     1. Crack Any PDF password protected file with different Techniques.
     2. This script will install required tool automatically.
