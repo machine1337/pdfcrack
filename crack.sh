@@ -124,6 +124,7 @@ read file
 
 sleep 0.5
 echo -n -e ${RED}"\n[+] Analyzing $file: \n"
+sleep 1
 echo -n -e ${CP}"\n[*] Filename : $file \n"
 sleep 0.5
 pfver=$(pdfid $file | awk '/PDF Header/{print $3}' | sed 's/^.//')
@@ -132,7 +133,7 @@ echo -n -e ${BLUE}"\n[*] Version :  $pfver \n"
 pflev=$(pdfid $file | awk '/Encrypt/{print $2}')
 sleep 0.5
 if [[ $pflev = '0' ]]; then
-echo -n -e ${CN}"\n[*] Not an encrypted file \n"
+echo -n -e ${CN}"\n[*] Not an encrypted file.....Exiting! \n"
 exit 
 clear
 fi
