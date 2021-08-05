@@ -11,7 +11,7 @@
     sudo apt-get update -y
     
 # Usage:
-    1. sudo ./crack.sh
+    1. sudo bash crack.sh or sudo zsh crack.sh
     
 # How To Use:
    https://www.youtube.com/watch?v=qSW_50TrObc
