@@ -1,3 +1,330 @@
-z="
-";MLz='!= '\''';DGz='tall';Nz=';5;0';IGz=' pdf';jOz='$cho';WFz='p 1';rMz='k.ha';WKz='rdli';IDz='Idea';xDz='n[ X';dHz='  > ';xOz='st  ';gEz='ecki';CJz='cryp';nFz='und ';WEz=' dep';WLz='rd N';YIz=' sed';VHz='N}[ ';CDz='er S';TGz='rser';lIz='pfle';VNz='-for';MEz=' ✔ ]';JMz='/joh';sKz='=$(p';rBz='|_) ';mCz='${YE';nGz='ser ';AFz=' "\n';kNz=' [[ ';wNz=' --f';dKz='ng S';BIz='Anal';XEz='end(';eGz='pars';DPz='{NC}';CCz=' _ <';Tz='202m';hCz=' PDF';JLz='/.$/';qEz='c -z';wMz='le \';mz='214m';ACz=' . \';CPz='"  $';OLz=' Pas';GNz='h $w';VFz='slee';VKz='f wo';hHz='r';ZPz='i_pl';YJz='rypt';OFz='ED}"';QIz='| aw';NHz='t > ';RIz='k '\''/';LGz='"[ ✔';wCz='"   ';VIz='prin';GMz='f /u';Rz='[1;3';NIz='pfve';RJz='er -';ZJz='/{pr';mNz=' '\''2'\''';rOz='-a 0';DOz=' pri';PKz=' dic';jDz='041 ';pCz='oded';VJz=' | a';Qz='GE='\''';uFz='> ${';NFz=' ${R';RDz='e On';dJz='{YEL';pOz='t';MOz='0600';Pz='ORAN';rIz='2}'\'')';cCz='y Pa';BNz='-m 1';cMz='shar';GGz='-get';dOz='n Ha';UJz='pt $';fEz=' "Ch';XCz='ced ';CNz='0500';yBz=' \ |';hPz='ck';WBz='  / ';qNz='d?d?';lOz='_ch';RKz='ack(';xEz='${GR';rLz='n Wo';iHz='bann';AJz='ot a';vGz='df..';NOz='00  ';jIz='er \';mBz='/ _ ';kFz='] pd';TKz='r pa';ECz=' |__';JIz='ame ';SCz='_/  ';WMz='..Mo';FMz='[  -';cHz='hcat';rKz='dict';Yz=';38;';Lz='033[';QFz='nter';rEz='w1 g';QBz='__ _';OKz='menu';JOz='ED}$';jLz='Defa';lFz='fid.';Az='NC='\''';FEz='un a';hz='4m'\''';gJz='ptio';UFz='on"';iMz=' > t';KHz='k  >';jCz='e   ';oIz='ypt/';hFz='" ];';iIz='$pfv';JFz=' wor';gLz='-n $';SGz='f-pa';Uz=''\''';sz=';205';LNz='fin=';RHz='&1';CIz='yzin';OOz='-a 3';sNz='forc';DKz='Obje';ZKz='E2}"';dFz='2>&1';XHz='hash';EBz=' -e ';aBz=' |/ ';gPz='_cra';TPz='} Ex';wOz=' $wl';BMz='heck';qLz='r Ow';GOz='rd F';XPz='t: "';BBz='ner(';YPz=' red';ZFz='fid ';sJz='ilte';TOz='ow |';HNz='ord ';HLz='s/^.';MDz='o It';FGz=' apt';pz='CP='\''';pLz='se U';QPz='ttac';DMz='john';YDz='sibl';QKz='t_cr';gFz='q "0';jHz='er';WCz='dvan';VBz='_|  ';IIz='ilen';oGz='h qp';aCz='Crac';SMz='g!"';Hz=';196';bBz='/ __';yGz='  ->';HGz=' ins';XMz='ving';CEz='pt m';LIz='ile ';vJz=' $2;';kDz='${RE';hDz=' who';dBz=' _ \';hBz=' | |';BCz='| |_';UOz=' -F:';IKz='on S';rNz='d --';NGz='one ';XDz='invi';yEz='EEN}';qMz=''\'' > ';pKz='time';mMz='wk -';WIz='t $3';bLz='Type';tNz='e >/';wz=';051';ZMz='ward';CBz='){';uLz='ct: ';OMz='h no';wEz='hen';Bz='\033';UMz='n Pa';EJz='file';TDz='{CPO';oNz='h -i';Sz='8;5;';LOz=' '\''3'\''';QMz='..Ex';UGz=' > /';NLz=''\'' ]]';fz='GRAY';VPz='+] S';tFz='d  -';xGz='qpdf';GHz='ck >';GFz='...$';VLz='] Pa';ODz=' #"';mJz='il=$';kLz='ult ';gGz='-> $';cKz='acki';kHz=' -n ';DDz='ecre';GKz=' $ob';OCz='| \_';ULz='[ X ';EIz='ile:';PNz='00 c';EEz='be r';ePz='-eq ';UPz='it"';SJz='s /E';CLz='r-pa';nLz=' \n$';SEz='.sh"';UBz='_ \|';NPz='G}"2';OIz='r=$(';SDz=':  $';OPz='} Ha';FLz=' | s';FKz='r : ';uDz='; th';PLz='swor';ZGz='.${G';pFz='$red';vDz='en';YHz=' -> ';nz='CG='\''';vHz='e';DCz=' > >';bGz='}[ f';GJz='ting';vIz='0'\'' ]';cBz='__| ';JBz='__  ';uz='247m';eEz='et';IEz=') \n';eNz='in !';RLz='}$fi';PJz='enob';tLz='Sele';MCz='\___';CHz=' "';fNz='= '\'''\''';fGz='er  ';sOz='  $w';qJz=' awk';YLz='h_cr';KGz='UE} ';vBz='  _|';RFz='net ';iFz=' the';POz=' cra';ALz=' '\''/f';NJz='$pfl';DFz='tern';XNz='-sho';JPz='ctio';SKz='Ente';SNz='i ?d';XFz='whic';tEz='e.co';THz='t...';KEz='&2';UDz='}Ins';HJz='! \n';xIz='{CN}';DHz=' qpd';KOz='fin ';tz='CN='\''';iBz=' |_ ';mOz='h_ch';sDz='-ne ';SOz='--sh';dLz='ess ';XJz='/Enc';JJz='[*] ';DLz='rd: ';iLz='Use ';QEz=' ./c';uEz='m 44';nJz='(pdf';FNz='.has';wFz='not ';bOz='] Un';WDz='am: ';KCz='\_\_';FJz='.Exi';hEz='ng d';aLz='se C';cEz='/iss';HBz='  __';RMz='itin';OGz='inst';FBz='${CP';kOz=' = 2';eHz=' hac';dCz='sswo';lCz='"';BHz='ot f';vNz='word';VGz='dev/';cGz='ound';sLz='st \';tGz='>&1';hIz=' :  ';xKz=' $wo';NDz='}   ';fIz=' Ver';ez='3m'\''';iGz='}not';ZLz='Choo';KBz='_   ';gMz='ohn.';nNz='  ]]';wBz='<  /';cNz=' $2 ';KLz='[ $d';wIz=']; t';aOz=' 107';UHz='..${';Cz='[0m'\''';Xz='33[1';nBz='\| |';aJz='int ';bEz='/etc';lEz='conf';oEz='n "';EPz='[${C';AHz='ED}n';pJz='le |';IFz='EN}[';MJz='evel';DJz='ted ';yLz=' 1 ]';uJz='rint';YBz='\   ';uIz=' = '\''';iPz=' [ $';YNz='w | ';hJz='n Ob';lGz='er "';Wz='='\''\0';qHz=' pat';DEz='ust ';lDz='D}"#';LMz='f2jo';RPz='k"';nOz='(){';fLz=' 2 :';jz=';154';aEz='cat ';ZNz='awk ';Gz='38;5';fPz='1 ];';EGz='ing ';oz='087m';mGz='-par';GCz='  \_';dz='PINK';lHz='-e $';RCz='   /';GPz='"${N';yCz='Expo';JEz='" 1>';tHz='e : ';GEz='s ro';nKz='For ';dPz='lay ';fMz='df2j';lBz=' |  ';QHz='l 2>';YMz=' For';OBz='  _ ';PPz='sh A';CFz='] In';rGz='v/nu';vFz='RED}';bKz='] Cr';cPz='di_p';mIz='v=$(';ABz=' ban';SPz='G}"3';eKz='tare';ENz=' 3 c';eCz='rd P';XGz=' 2>&';XBz='___|';nIz='Encr';mHz='{ORA';BJz='n en';yDz=' ] T';oMz='{ pr';Dz='RED=';WGz='null';EHz='f  >';COz=': '\''{';DNz='  -a';ZBz=' / \';LDz='an D';VEz='fi';jGz=' fou';dGz='pdf-';tBz=' < |';cz='32m'\''';vCz='UE2}';iJz='ject';WHz='d ]"';UIz='er/{';MNz='$(ha';yFz='d "';sMz='sh';xHz='5';UEz=' 1';AGz='} "[';NMz='l ]]';MHz='shca';LLz='ict ';tIz='flev';LCz='_|\_';xLz='ho =';yHz='}"\n';mPz='q 2 ';HEz='ot :';xFz='foun';pBz='|  _';PBz='_  _';DIz='g $f';YCz='Tool';LKz='ypte';tJz='r/{p';mKz='ait ';VDz='tagr';NNz='t -m';gKz=' \n ';JNz='rce ';kKz='ffee';INz='--fo';bCz='k An';ANz='then';KFz='king';fCz='rote';dDz='{PIN';GDz=' A G';BKz='/^./';sIz='[ $p';eIz='n[*]';gCz='cted';vOz='wlst';FFz='....';rHz='h of';pEz='if n';vMz='on: ';EDz='t Is';IBz='____';jFz='n';IJz='{CNC';MMz='hn.p';mLz='list';MBz='___ ';oJz=' $fi';TLz='D}$d';AIz='[+] ';fKz='d on';nCz='LLOW';uMz='red ';fJz='*] E';tKz='dfcr';lJz='objf';jMz='mp.h';OEz='ge: ';YKz='d';aIz='^.//';PIz='d $f';aKz='\n[*';sGz='ll 2';VCz='An A';HCz='_| \';YFz='h pd';FCz='__/|';fDz='itte';HHz='ck..';ZCz=' To ';CGz=' Ins';yKz='rd |';iNz='in "';MIz='\n"';xBz=' ___';rDz='UID ';yOz='()';qCz=' By:';gNz=' ]];';BLz=' use';TNz='?d?d';AMz='*] C';gHz='clea';dIz='E}"\';ZEz='NK}';hLz=' 1. ';REz='rack';HDz='ood ';tMz=' Sta';PHz='/nul';ICz='_\/_';eMz='hn/p';ONz=' 105';PMz='und.';qKz=' :) ';Kz='N='\''\';wKz='e -w';xMz='1'\''  ';RGz='..."';ELz='$3}'\''';CKz='/'\'')';Oz='40m'\''';UKz='th o';YEz='${PI';iKz='rab ';VMz='th F';gIz='sion';lMz='tmp.';iDz='ami4';QJz='j=$(';HMz='sr/s';Zz='5;01';fHz='ker(';fOz='rm t';gOz='ash';LEz='D}"[';Mz='1;38';ZHz='D}no';dNz='[ $f';pPz='nd';eBz=' \  ';sHz=' fil';TMz='2joh';rz='CPO=';wGz='nd ]';Fz='3[1;';lz='OW='\''';WJz='wk '\''';rCz=' Mac';oLz='2. U';cIz='{BLU';EOz='2 }'\''';uGz='] qp';bPz=' $re';PFz='No I';NCz='__|_';BOz='k -F';BEz='scri';RBz='  #"';kJz='bj \';ILz='//'\'' ';hMz='pl $';gz='5;00';HFz='{GRE';LBz='   _';MKz='d \n';sEz='oogl';LJz='on L';qPz='hack';fBz='| ||';jKz='A Co';jJz='$eno';vLz=' cho';qz='221m';yNz=' --s';kBz='   |';CMz='pdf2';QDz='ow M';pMz='$2 }';KJz='ypti';uBz='/| |';WPz='elec';ROz='ash ';IMz='hare';MFz='else';sCz='hine';sFz='pdfi';LFz=' ]"';qGz=' /de';nHz='NGE}';hGz='{RED';eLz='1 Or';KMz='n/pd';iOz='h';WOz='t $2';wHz='p 0.';JHz='crac';bJz='($2)';TJz='ncry';HOz=' ${C';UNz='?d -';QCz=' \_\';dEz='ue.n';JGz='id  ';hNz='D}$f';BPz=': \n';pIz='{pri';GBz='}"  ';lKz=' & W';kEz='ies ';TIz='Head';rFz='X ] ';aGz='REEN';MGz=' ] D';vz='CNC=';lLz='Word';AKz='d '\''s';TEz='exit';sBz='}" <';cLz=': Pr';QLz='d Fo';NBz='    ';oKz='Some';JCz='/   ';kPz='_pla';eOz='sh "';qOz='/jho';HIz='*] F';qDz='[ $E';NEz=' Usa';mDz='####';yIz='*] N';bHz=' has';XKz='st: ';FHz='fcra';XIz='}'\'' |';qIz='nt $';nMz='F: '\''';JKz='tatu';cDz='   $';HKz='jfil';ZOz='0700';oOz=' wls';hKz='*] G';KPz='nary';TCz='${CN';oCz='   C';xNz='orce';LPz=' Att';Vz='BLUE';EFz='et..';rJz=' '\''/F';oFz=']"';PGz='alli';PDz='Foll';SIz='PDF ';IHz='pdfc';APz='{';cJz='}'\'')';qFz=' "[ ';PEz='sudo';nPz='q 3 ';fFz='" -e';KDz=' U C';aPz='ay';PCz='\ | ';jNz='elif';VOz=' '\''{ ';SFz='Conn';bIz=''\'')';eDz='K}Tw';ZIz=' '\''s/';oDz='}';Iz='m'\''';UCz='C}" ';GLz='ed '\''';iCz=' Fil';kCz='   #';QNz='h -a';wLz='[ $c';pGz='df >';YOz=' '\''8'\''';yJz='| se';wJz=' exi';aFz='> /d';XOz=' }'\'')';KIz=': $f';HPz='C}]$';ZDz='ecla';QGz='ng .';DBz='echo';BGz=' ! ]';FOz=')';pNz=' ?d?';tCz='404 ';ADz='sing';bDz='#"';pDz='if [';BDz=' Oth';MPz='ack"';gBz=' |_)';RNz=' 3 -';EMz='h \n';uKz='ack ';kMz='ash)';BFz='[ ✔ ';xz='func';SHz='] ha';iEz='epen';cOz='know';IOz='P}$f';LHz='h ha';AOz='how ';lPz='y -e';WNz='ce -';mEz='igur';uCz='${BL';uOz=' 0 $';dMz='e/jo';FDz=' Not';bNz=''\''{ p';aNz='-F: ';AEz='his ';bFz='ev/n';jPz='redi';vEz='3; t';yz='tion';SLz='le: ';bMz='usr/';kIz='n"';iz='NEW=';aMz='=$(/';tOz='lst ';FIz=' \n"';IPz='} Di';QOz='ck.h';uHz='read';JDz=' But';xJz='t}'\'' ';cFz='ull ';EKz='ct F';GIz='{CP}';aDz='y100';TBz='\|  ';tDz='0 ]]';kGz='nd "';TFz='ecti';nDz='\n "';yMz=']]; ';az='2m'\''';KNz='>/de';qBz='| | ';eJz='LOW}';YGz='1';eFz=' "$?';vKz='$fil';bz='2='\''\';aHz='t fo';jEz='denc';oBz=' '\'' /';wDz='D}"\';OHz='/dev';FPz='G}"1';NKz='p 2';Jz='GREE';Ez=''\''\03';oPz='depe';pHz='+] E';OJz='ev \';lNz='ev =';nEz='atio';xCz='   {';KKz='s : ';mFz='[ fo';oHz='"\n[';hOz='rm c';XLz='ot F';jBz='_| |';SBz=' / /';uNz=' 3 $';gDz='r:  ';kz='YELL';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Qz$Bz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$z$Vz$bz$Lz$Mz$Nz$cz$z$dz$Wz$Xz$Yz$Zz$ez$z$fz$Wz$Xz$Yz$gz$hz$z$iz$Ez$Fz$Gz$jz$Iz$z$kz$lz$Bz$Rz$Sz$mz$Uz$z$nz$Bz$Rz$Sz$oz$Uz$z$pz$Bz$Rz$Sz$qz$Uz$z$rz$Ez$Fz$Gz$sz$Iz$z$tz$Bz$Rz$Sz$uz$Uz$z$vz$Ez$Fz$Gz$wz$Iz$z$xz$yz$ABz$BBz$CBz$z$DBz$EBz$FBz$GBz$HBz$IBz$HBz$JBz$IBz$KBz$LBz$MBz$IBz$NBz$OBz$LBz$MBz$PBz$IBz$QBz$IBz$KBz$RBz$z$DBz$EBz$FBz$GBz$SBz$OBz$TBz$UBz$HBz$VBz$WBz$XBz$OBz$YBz$ZBz$WBz$XBz$aBz$bBz$cBz$dBz$eBz$RBz$z$DBz$EBz$FBz$GBz$fBz$gBz$hBz$hBz$iBz$IBz$jBz$kBz$gBz$lBz$mBz$nBz$kBz$oBz$pBz$qBz$rBz$qBz$RBz$z$DBz$EBz$FBz$sBz$tBz$HBz$uBz$jBz$vBz$IBz$jBz$XBz$OBz$wBz$xBz$yBz$XBz$ACz$BCz$cBz$CCz$DCz$RBz$z$DBz$EBz$FBz$GBz$fBz$VBz$ECz$FCz$VBz$NBz$GCz$XBz$HCz$ICz$JCz$KCz$XBz$LCz$MCz$NCz$OCz$PCz$RBz$z$DBz$EBz$FBz$GBz$QCz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$RCz$SCz$RBz$z$DBz$EBz$TCz$UCz$NBz$NBz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$NBz$kCz$lCz$z$DBz$EBz$mCz$nCz$GBz$NBz$NBz$NBz$NBz$NBz$oCz$pCz$qCz$rCz$sCz$tCz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$RBz$z$DBz$EBz$uCz$vCz$wCz$NBz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$NBz$ODz$z$DBz$EBz$FBz$GBz$NBz$NBz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$NBz$NBz$NBz$NBz$NBz$NBz$bDz$z$DBz$EBz$FBz$GBz$NBz$NBz$NBz$NBz$NBz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$ODz$z$DBz$EBz$kDz$lDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$mDz$nDz$z$oDz$z$pDz$qDz$rDz$sDz$tDz$uDz$vDz$z$DBz$EBz$kDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$z$DBz$EBz$kDz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$z$TEz$UEz$z$VEz$z$xz$yz$WEz$XEz$CBz$z$DBz$EBz$YEz$ZEz$z$aEz$bEz$cEz$dEz$eEz$z$DBz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$z$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$z$DBz$EBz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$z$MFz$z$DBz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$z$TEz$UEz$z$VEz$z$VFz$WFz$z$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$z$pDz$eFz$fFz$gFz$hFz$iFz$jFz$z$DBz$EBz$xEz$yEz$AFz$BFz$kFz$lFz$FFz$FFz$FFz$xEz$yEz$mFz$nFz$oFz$z$MFz$z$DBz$EBz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$z$DBz$EBz$mCz$nCz$AGz$BGz$CGz$DGz$EGz$sFz$yFz$z$PEz$FGz$GGz$HGz$DGz$IGz$JGz$aFz$bFz$cFz$dFz$z$DBz$EBz$uCz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$z$VEz$z$VFz$WFz$z$XFz$YFz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$z$pDz$eFz$fFz$gFz$hFz$iFz$jFz$z$DBz$EBz$xEz$yEz$AFz$BFz$kFz$SGz$TGz$FFz$FFz$FFz$ZGz$aGz$bGz$cGz$LFz$z$MFz$z$DBz$EBz$pFz$qFz$rFz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$z$DBz$EBz$mCz$nCz$AGz$BGz$CGz$DGz$EGz$dGz$eGz$lGz$z$PEz$FGz$HGz$DGz$IGz$mGz$nGz$UGz$VGz$WGz$XGz$YGz$z$DBz$EBz$uCz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$z$XFz$oGz$pGz$qGz$rGz$sGz$tGz$z$VEz$z$VFz$WFz$z$XFz$oGz$pGz$qGz$rGz$sGz$tGz$z$pDz$eFz$fFz$gFz$hFz$iFz$jFz$z$DBz$EBz$xEz$yEz$AFz$BFz$uGz$vGz$FFz$FFz$GFz$HFz$IFz$jGz$wGz$lCz$z$MFz$z$DBz$EBz$pFz$qFz$rFz$xGz$yGz$NFz$AHz$BHz$cGz$CHz$z$DBz$EBz$mCz$nCz$AGz$BGz$CGz$DGz$EGz$xGz$CHz$z$PEz$FGz$HGz$DGz$DHz$EHz$qGz$rGz$sGz$tGz$z$DBz$EBz$uCz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$z$XFz$oGz$pGz$qGz$rGz$sGz$tGz$z$VEz$z$VFz$WFz$z$XFz$YFz$FHz$GHz$qGz$rGz$sGz$tGz$z$pDz$eFz$fFz$gFz$hFz$iFz$jFz$z$DBz$EBz$xEz$yEz$AFz$BFz$kFz$FHz$HHz$FFz$FFz$GFz$HFz$IFz$jGz$wGz$lCz$z$MFz$z$DBz$EBz$pFz$qFz$rFz$IHz$REz$yGz$NFz$AHz$BHz$cGz$CHz$z$DBz$EBz$mCz$nCz$AGz$BGz$CGz$DGz$EGz$dGz$eGz$lGz$z$PEz$FGz$HGz$DGz$IGz$JHz$KHz$qGz$rGz$sGz$tGz$z$DBz$EBz$uCz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$z$XFz$YFz$FHz$GHz$qGz$rGz$sGz$tGz$z$VEz$z$VFz$WFz$z$XFz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$z$pDz$eFz$fFz$gFz$hFz$iFz$jFz$z$DBz$EBz$xEz$yEz$AFz$BFz$SHz$MHz$THz$FFz$FFz$UHz$Jz$VHz$xFz$WHz$z$MFz$z$DBz$EBz$pFz$qFz$rFz$XHz$aEz$YHz$kDz$ZHz$aHz$nFz$lCz$z$DBz$EBz$mCz$nCz$AGz$BGz$CGz$DGz$EGz$XHz$aEz$lCz$z$PEz$FGz$HGz$DGz$bHz$cHz$dHz$OHz$PHz$QHz$RHz$z$DBz$EBz$uCz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$z$XFz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$z$VEz$z$VFz$WFz$z$oDz$z$xz$yz$eHz$fHz$CBz$z$gHz$hHz$z$iHz$jHz$z$DBz$kHz$lHz$mHz$nHz$oHz$pHz$QFz$qHz$rHz$IGz$sHz$tHz$lCz$z$uHz$sHz$vHz$z$VFz$wHz$xHz$z$DBz$kHz$lHz$hGz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$z$VFz$WFz$z$DBz$kHz$lHz$GIz$oHz$HIz$IIz$JIz$KIz$LIz$MIz$z$VFz$wHz$xHz$z$NIz$OIz$sFz$PIz$LIz$QIz$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$bIz$z$VFz$wHz$xHz$z$DBz$kHz$lHz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$kIz$z$lIz$mIz$sFz$PIz$LIz$QIz$RIz$nIz$oIz$pIz$qIz$rIz$z$VFz$wHz$xHz$z$pDz$sIz$tIz$uIz$vIz$wIz$wEz$z$DBz$kHz$lHz$xIz$oHz$yIz$AJz$BJz$CJz$DJz$EJz$FFz$FJz$GJz$HJz$lCz$z$TEz$z$gHz$hHz$z$VEz$z$DBz$kHz$lHz$IJz$yHz$JJz$nIz$KJz$LJz$MJz$hIz$NJz$OJz$kIz$z$PJz$QJz$dGz$eGz$RJz$SJz$TJz$UJz$EJz$VJz$WJz$XJz$YJz$ZJz$aJz$bJz$cJz$z$VFz$wHz$xHz$z$DBz$kHz$lHz$dJz$eJz$oHz$fJz$TJz$gJz$hJz$iJz$hIz$jJz$kJz$kIz$z$lJz$mJz$nJz$mGz$nGz$oJz$pJz$qJz$rJz$sJz$tJz$uJz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$z$VFz$wHz$xHz$z$DBz$kHz$lHz$hGz$yHz$JJz$DKz$EKz$sJz$FKz$GKz$HKz$FIz$z$VFz$WFz$z$DBz$kHz$lHz$IJz$yHz$JJz$nIz$KJz$IKz$JKz$KKz$nIz$LKz$MKz$lCz$z$VFz$NKz$z$gHz$hHz$z$OKz$z$oDz$z$xz$yz$PKz$QKz$RKz$CBz$z$DBz$kHz$lHz$IJz$yHz$JJz$SKz$TKz$UKz$VKz$WKz$XKz$CHz$z$uHz$JFz$YKz$z$VFz$wHz$xHz$z$DBz$kHz$lHz$cIz$ZKz$aKz$bKz$cKz$dKz$eKz$fKz$SDz$EJz$gKz$lCz$z$VFz$NKz$z$DBz$kHz$lHz$xIz$oHz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$oKz$pKz$qKz$nDz$z$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$qJz$ALz$cGz$BLz$CLz$dCz$DLz$ZJz$aJz$ELz$FLz$GLz$HLz$ILz$yJz$AKz$JLz$CKz$z$pDz$KLz$LLz$MLz$NLz$uDz$vDz$z$DBz$kHz$lHz$GIz$oHz$MEz$OLz$PLz$QLz$nFz$nKz$FBz$RLz$SLz$kDz$TLz$LLz$lCz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$oDz$z$xz$yz$bHz$YLz$RKz$CBz$z$gHz$hHz$z$iHz$jHz$z$DBz$EBz$mCz$nCz$yHz$JJz$ZLz$aLz$REz$EGz$bLz$cLz$dLz$eLz$fLz$lCz$z$DBz$EBz$gLz$cIz$dIz$eIz$hLz$iLz$jLz$kLz$lLz$mLz$nLz$GIz$JJz$oLz$pLz$qLz$rLz$WKz$sLz$kIz$z$DBz$kHz$lHz$IJz$yHz$AIz$tLz$uLz$lCz$z$uHz$vLz$z$pDz$wLz$xLz$yLz$wIz$wEz$z$DBz$kHz$lHz$GIz$oHz$AMz$BMz$EGz$CMz$DMz$qHz$EMz$CHz$z$pDz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$MMz$NMz$uDz$vDz$z$DBz$EBz$gLz$hGz$yHz$JJz$CMz$DMz$qHz$OMz$aHz$PMz$FFz$QMz$RMz$SMz$z$TEz$z$VEz$z$VFz$WFz$z$DBz$EBz$gLz$cIz$dIz$eIz$IGz$TMz$UMz$VMz$cGz$FFz$WMz$XMz$YMz$ZMz$qKz$MIz$z$DMz$aMz$bMz$cMz$dMz$eMz$fMz$gMz$hMz$EJz$iMz$jMz$kMz$z$aEz$lMz$XHz$VJz$mMz$nMz$oMz$aJz$pMz$qMz$JHz$rMz$sMz$z$VFz$NKz$z$DBz$kHz$lHz$IJz$yHz$JJz$aCz$KFz$tMz$uMz$vMz$oJz$wMz$oEz$z$VFz$NKz$z$DBz$kHz$lHz$xIz$oHz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$oKz$pKz$qKz$nDz$z$pDz$sIz$tIz$uIz$xMz$yMz$ANz$z$XHz$aEz$BNz$CNz$DNz$ENz$REz$FNz$GNz$HNz$INz$JNz$KNz$rGz$sGz$tGz$z$LNz$MNz$MHz$NNz$ONz$PNz$REz$FNz$QNz$RNz$SNz$TNz$TNz$UNz$VNz$WNz$XNz$YNz$ZNz$aNz$bNz$uJz$cNz$cJz$z$pDz$dNz$eNz$fNz$gNz$iFz$jFz$z$DBz$kHz$lHz$GIz$oHz$MEz$OLz$PLz$QLz$nFz$nKz$FBz$RLz$SLz$kDz$hNz$iNz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$jNz$kNz$NJz$lNz$mNz$nNz$uDz$vDz$z$XHz$aEz$BNz$CNz$DNz$ENz$REz$FNz$oNz$pNz$qNz$qNz$rNz$sNz$tNz$VGz$WGz$XGz$YGz$z$LNz$MNz$MHz$NNz$ONz$PNz$REz$FNz$QNz$uNz$vNz$wNz$xNz$yNz$AOz$QIz$BOz$COz$DOz$qIz$EOz$FOz$z$pDz$dNz$eNz$fNz$gNz$iFz$jFz$z$DBz$kHz$lHz$GIz$oHz$BFz$VLz$dCz$GOz$cGz$YMz$HOz$IOz$EIz$NFz$JOz$KOz$lCz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$jNz$kNz$NJz$lNz$LOz$gNz$iFz$jFz$z$XHz$aEz$BNz$MOz$DNz$ENz$REz$FNz$oNz$pNz$qNz$qNz$rNz$sNz$tNz$VGz$WGz$XGz$YGz$z$LNz$MNz$MHz$NNz$ONz$NOz$OOz$POz$QOz$ROz$INz$JNz$SOz$TOz$qJz$UOz$VOz$VIz$WOz$XOz$z$pDz$dNz$eNz$fNz$gNz$iFz$jFz$z$DBz$kHz$lHz$GIz$oHz$MEz$OLz$PLz$QLz$nFz$nKz$FBz$RLz$SLz$kDz$hNz$iNz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$jNz$kNz$NJz$lNz$YOz$gNz$iFz$jFz$z$XHz$aEz$BNz$ZOz$DNz$ENz$REz$FNz$oNz$pNz$qNz$qNz$rNz$sNz$tNz$VGz$WGz$XGz$YGz$z$LNz$MNz$MHz$NNz$aOz$NOz$OOz$POz$QOz$ROz$INz$JNz$SOz$TOz$qJz$UOz$VOz$VIz$WOz$XOz$z$pDz$dNz$eNz$fNz$gNz$iFz$jFz$z$DBz$kHz$lHz$GIz$oHz$MEz$OLz$PLz$QLz$nFz$nKz$FBz$RLz$SLz$kDz$hNz$iNz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$bOz$cOz$dOz$eOz$z$TEz$z$VEz$z$fOz$jMz$gOz$z$hOz$REz$FNz$iOz$z$jNz$kNz$jOz$kOz$gNz$iFz$jFz$z$XHz$lOz$z$VEz$z$oDz$z$xz$yz$bHz$mOz$nOz$z$gHz$hHz$z$iHz$jHz$z$DBz$kHz$lHz$IJz$yHz$JJz$SKz$TKz$UKz$VKz$WKz$XKz$CHz$z$uHz$oOz$pOz$z$VFz$wHz$xHz$z$DBz$kHz$lHz$GIz$oHz$AMz$BMz$EGz$CMz$DMz$qHz$EMz$CHz$z$pDz$FMz$GMz$HMz$IMz$qOz$KMz$LMz$MMz$NMz$uDz$vDz$z$DBz$EBz$gLz$hGz$yHz$JJz$CMz$DMz$qHz$OMz$aHz$PMz$FFz$QMz$RMz$SMz$z$TEz$z$VEz$z$VFz$WFz$z$DBz$EBz$gLz$cIz$dIz$eIz$IGz$TMz$UMz$VMz$cGz$FFz$WMz$XMz$YMz$ZMz$qKz$MIz$z$DMz$aMz$bMz$cMz$dMz$eMz$fMz$gMz$hMz$EJz$iMz$jMz$kMz$z$aEz$lMz$XHz$VJz$mMz$nMz$oMz$aJz$pMz$qMz$JHz$rMz$sMz$z$VFz$NKz$z$DBz$kHz$lHz$IJz$yHz$JJz$aCz$KFz$tMz$uMz$vMz$oJz$wMz$oEz$z$VFz$NKz$z$DBz$kHz$lHz$xIz$oHz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$oKz$pKz$qKz$nDz$z$pDz$sIz$tIz$uIz$xMz$yMz$ANz$z$XHz$aEz$BNz$CNz$POz$QOz$ROz$rOz$sOz$tOz$INz$JNz$KNz$rGz$sGz$tGz$z$LNz$MNz$MHz$NNz$ONz$PNz$REz$FNz$QNz$uOz$vOz$wNz$xNz$yNz$AOz$QIz$BOz$COz$DOz$qIz$EOz$FOz$z$pDz$dNz$eNz$fNz$gNz$iFz$jFz$z$DBz$kHz$lHz$GIz$oHz$MEz$OLz$PLz$QLz$nFz$nKz$FBz$RLz$SLz$kDz$hNz$iNz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$jNz$kNz$NJz$lNz$mNz$nNz$uDz$vDz$z$XHz$aEz$BNz$CNz$POz$QOz$ROz$rOz$wOz$xOz$INz$JNz$KNz$rGz$sGz$tGz$z$LNz$MNz$MHz$NNz$ONz$PNz$REz$FNz$QNz$uOz$vOz$wNz$xNz$yNz$AOz$QIz$BOz$COz$DOz$qIz$EOz$FOz$z$pDz$dNz$eNz$fNz$gNz$iFz$jFz$z$DBz$kHz$lHz$GIz$oHz$MEz$OLz$PLz$QLz$nFz$nKz$FBz$RLz$SLz$kDz$hNz$iNz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$jNz$kNz$NJz$lNz$LOz$gNz$iFz$jFz$z$XHz$aEz$BNz$MOz$POz$QOz$ROz$rOz$sOz$tOz$INz$JNz$KNz$rGz$sGz$tGz$z$LNz$MNz$MHz$NNz$ONz$PNz$REz$FNz$QNz$uOz$vOz$wNz$xNz$yNz$AOz$QIz$BOz$COz$DOz$qIz$EOz$FOz$z$pDz$dNz$eNz$fNz$gNz$iFz$jFz$z$DBz$kHz$lHz$GIz$oHz$MEz$OLz$PLz$QLz$nFz$nKz$FBz$RLz$SLz$kDz$hNz$iNz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$jNz$kNz$NJz$lNz$YOz$gNz$iFz$jFz$z$XHz$aEz$BNz$ZOz$POz$QOz$ROz$rOz$sOz$tOz$INz$JNz$KNz$rGz$sGz$tGz$z$LNz$MNz$MHz$NNz$aOz$PNz$REz$FNz$QNz$uOz$vOz$wNz$xNz$yNz$AOz$QIz$BOz$COz$DOz$qIz$EOz$FOz$z$pDz$dNz$eNz$fNz$gNz$iFz$jFz$z$DBz$kHz$lHz$GIz$oHz$MEz$OLz$PLz$QLz$nFz$nKz$FBz$RLz$SLz$kDz$hNz$iNz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$VLz$dCz$WLz$XLz$cGz$CHz$z$VEz$z$MFz$z$DBz$kHz$lHz$hGz$yHz$ULz$bOz$cOz$dOz$eOz$z$TEz$z$VEz$z$fOz$jMz$gOz$z$hOz$REz$FNz$iOz$z$oDz$z$OKz$yOz$z$APz$z$gHz$hHz$z$iHz$jHz$z$DBz$EBz$mCz$nCz$yHz$JJz$ZLz$aLz$REz$EGz$bLz$BPz$CHz$z$DBz$EBz$CPz$DPz$EPz$FPz$GPz$HPz$IJz$IPz$JPz$KPz$LPz$MPz$z$DBz$EBz$CPz$DPz$EPz$NPz$GPz$HPz$IJz$OPz$PPz$QPz$RPz$z$DBz$EBz$CPz$DPz$EPz$SPz$GPz$HPz$IJz$TPz$UPz$z$DBz$kHz$lHz$dJz$eJz$oHz$VPz$WPz$XPz$z$uHz$YPz$ZPz$aPz$z$pDz$bPz$cPz$dPz$ePz$fPz$iFz$jFz$z$rKz$gPz$hPz$z$jNz$iPz$jPz$kPz$lPz$mPz$wIz$wEz$z$XHz$gPz$hPz$z$jNz$iPz$jPz$kPz$lPz$nPz$wIz$wEz$z$TEz$z$VEz$z$oDz$z$iHz$jHz$z$gHz$hHz$z$oPz$pPz$z$qPz$jHz"
+#!/bin/bash
+NC='\033[0m'
+RED='\033[1;38;5;196m'
+GREEN='\033[1;38;5;040m'
+ORANGE='\033[1;38;5;202m'
+BLUE='\033[1;38;5;012m'
+BLUE2='\033[1;38;5;032m'
+PINK='\033[1;38;5;013m'
+GRAY='\033[1;38;5;004m'
+NEW='\033[1;38;5;154m'
+YELLOW='\033[1;38;5;214m'
+CG='\033[1;38;5;087m'
+CP='\033[1;38;5;221m'
+CPO='\033[1;38;5;205m'
+CN='\033[1;38;5;247m'
+CNC='\033[1;38;5;051m'
+#Coded By Machine404! Don't copy this code without giving me credit~
+#https://instagram.com/invisibleclay100
+#https://twitter.com/whoami4041
+#https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+function banner(){
+echo -e ${CP}"    ______  ____  _____      ____ ____      _    ____ _  _______ ______     #"
+echo -e ${CP}"   / /  _ \|  _ \|  ___|    / ___|  _ \    / \  / ___| |/ / ____|  _ \ \    #"
+echo -e ${CP}"  | || |_) | | | | |_ _____| |   | |_) |  / _ \| |   | ' /|  _| | |_) | |   #"
+echo -e ${CP}" < < |  __/| |_| |  _|_____| |___|  _ <  / ___ \ |___| . \| |___|  _ < > >  #"
+echo -e ${CP}"  | ||_|   |____/|_|        \____|_| \_\/_/   \_\____|_|\_\_____|_| \_\ |   #"
+echo -e ${CP}"   \_\                                                               /_/    #"
+echo -e ${CNC}"         An Advanced Tool To Crack Any Password Protected PDF File          #"
+echo -e ${YELLOW}"                         Coded By: Machine404                               #"
+echo -e ${BLUE2}"          {Exposing Other Secret Is Not A Good Idea But U Can Do It}        #"
+echo -e ${CP}"          Follow Me On:  ${CPO}Instagram: invisibleclay100                        #"
+echo -e ${CP}"                         ${PINK}Twitter:   whoami4041                              #"
+echo -e ${RED}"#############################################################################\n "
+}
+if [[ $EUID -ne 0 ]]; then
+   echo -e ${RED}"\n[ X ] This script must be run as root :) \n" 1>&2
+   echo -e ${RED}"[ ✔ ] Usage: sudo ./crack.sh"
+   exit 1
+fi
+function depend(){
+
+echo -e ${PINK}
+cat /etc/issue.net
+
+
+echo "Checking dependencies configuration " 
+sleep 1
+if [[ "$(ping -c 1 8.8.8.8 | grep '100% packet loss' )" != "" ]]; then
+  echo ${RED}"No Internet Connection"
+  exit 1
+  else
+  echo -e ${GREEN} "\n[ ✔ ] Internet.............${GREEN}[ working ]"
+fi
+sleep 1
+which pdfid > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e ${GREEN} "\n[ ✔ ] pdfid.............${GREEN}[ found ]"
+else
+echo -e $red "[ X ] pdfid  -> ${RED}not found "
+echo -e ${YELLOW} "[ ! ] Installing pdfid "
+#sudo apt-get update -y > /dev/null 2>&1
+apt-get install pdfid -y > /dev/null 2>&1
+echo -e ${BLUE} "[ ✔ ] Done installing ...."
+fi
+sleep 1
+which pdf-parser > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e ${GREEN} "\n[ ✔ ] pdf-parser.............${GREEN}[ found ]"
+else
+echo -e $red "[ X ] pdf-parser  -> ${RED}not found "
+echo -e ${YELLOW} "[ ! ] Installing pdf-parser "
+ apt install pdf-parser -y > /dev/null 2>&1
+
+echo -e ${BLUE} "[ ✔ ] Done installing ...."
+which qpdf > /dev/null 2>&1
+
+fi
+sleep 1
+which qpdf > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e ${GREEN} "\n[ ✔ ] qpdf.............${GREEN}[ found ]"
+else
+echo -e $red "[ X ] qpdf  -> ${RED}not found "
+echo -e ${YELLOW} "[ ! ] Installing qpdf "
+apt install qpdf -y > /dev/null 2>&1
+
+echo -e ${BLUE} "[ ✔ ] Done installing ...."
+which qpdf > /dev/null 2>&1
+
+fi
+sleep 1
+which pdfcrack > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e ${GREEN} "\n[ ✔ ] pdfcrack.............${GREEN}[ found ]"
+else
+echo -e $red "[ X ] pdfcrack  -> ${RED}not found "
+echo -e ${YELLOW} "[ ! ] Installing pdfcrack "
+apt install pdfcrack -y > /dev/null 2>&1
+
+echo -e ${BLUE} "[ ✔ ] Done installing ...."
+which pdfcrack > /dev/null 2>&1
+
+fi
+sleep 1
+which hashcat > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e ${GREEN} "\n[ ✔ ] hashcat.............${GREEN}[ found ]"
+else
+echo -e $red "[ X ] hashcat  -> ${RED}not found "
+echo -e ${YELLOW} "[ ! ] Installing hashcat "
+ apt install hashcat -y > /dev/null 2>&1
+
+echo -e ${BLUE} "[ ✔ ] Done installing ...."
+which hashcat > /dev/null 2>&1
+fi
+sleep 1
+}
+function hacker(){
+clear
+banner
+echo -n -e ${ORANGE}"\n[+] Enter path of pdf file : "
+read file
+
+
+sleep 0.5
+echo -n -e ${RED}"\n[+] Analyzing $file: \n"
+sleep 1
+echo -n -e ${CP}"\n[*] Filename : $file \n"
+sleep 0.5
+pfver=$(pdfid $file | awk '/PDF Header/{print $3}' | sed 's/^.//')
+sleep 0.5
+echo -n -e ${BLUE}"\n[*] Version :  $pfver \n"
+pflev=$(pdfid $file | awk '/Encrypt/{print $2}')
+sleep 0.5
+if [[ $pflev = '0' ]]; then
+echo -n -e ${CN}"\n[*] Not an encrypted file.....Exiting! \n"
+exit 
+clear
+fi
+echo -n -e ${CNC}"\n[*] Encryption Level :  $pflev \n"
+enobj=$(pdf-parser -s /Encrypt $file | awk '/Encrypt/{print ($2)}')
+sleep 0.5
+echo -n -e ${YELLOW}"\n[*] Encryption Object :  $enobj \n"
+objfil=$(pdf-parser  $file | awk '/Filter/{print $2; exit}' | sed 's/^.//')
+sleep 0.5
+echo -n -e ${RED}"\n[*] Object Filter :  $objfil \n"
+sleep 1
+echo -n -e ${CNC}"\n[*] Encryption Status : Encrypted \n"
+sleep 2
+clear
+menu
+}
+function dict_crack(){
+echo -n -e ${CNC}"\n[*] Enter path of wordlist:  "
+read word
+sleep 0.5
+echo -n -e ${BLUE2}"\n[*] Cracking Stared on:  $file \n "
+sleep 2
+echo -n -e ${CN}"\n[*] Grab A Coffee & Wait For Sometime :) \n "
+
+dict=$(pdfcrack $file -w $word | awk '/found user-password: /{print $3}' | sed 's/^.//' | sed 's/.$//')
+if [[ $dict != '' ]]; then
+echo -n -e ${CP}"\n[ ✔ ] Password Found For ${CP}$file: ${RED}$dict "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+}
+#Coded By Machine404! Don't copy this code without giving me credit~
+#https://instagram.com/invisibleclay100
+#https://twitter.com/whoami4041
+#https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+function hash_crack(){
+clear 
+banner
+echo -e ${YELLOW}"\n[*] Choose Cracking Type: Press 1 Or 2 :"
+echo -e -n ${BLUE}"\n[*] 1. Use Default Wordlist \n${CP}[*] 2. Use Ur Own Wordlist \n"
+echo -n -e ${CNC}"\n[+] Select: "
+read cho
+if [[ $cho = 1 ]]; then
+
+echo -n -e ${CP}"\n[*] Checking pdf2john path \n "
+if [[  -f /usr/share/john/pdf2john.pl ]]; then
+echo -e -n ${RED}"\n[*] pdf2john path not found.......Exiting!"
+exit
+fi
+sleep 1
+echo -e -n ${BLUE}"\n[*] pdf2john Path Found......Moving Forward :) \n"
+john=$(/usr/share/john/pdf2john.pl $file > tmp.hash)
+cat tmp.hash | awk -F: '{ print $2 }' > crack.hash
+sleep 2
+echo -n -e ${CNC}"\n[*] Cracking Stared on:  $file \n "
+sleep 2
+echo -n -e ${CN}"\n[*] Grab A Coffee & Wait For Sometime :) \n "
+if [[ $pflev = '1'  ]]; then
+hashcat -m 10500  -a 3 crack.hash $word --force >/dev/null 2>&1
+fin=$(hashcat -m 10500 crack.hash -a 3 -i ?d?d?d?d?d?d --force --show | awk -F: '{ print $2 }')
+if [[ $fin != '' ]]; then
+echo -n -e ${CP}"\n[ ✔ ] Password Found For ${CP}$file: ${RED}$fin "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+elif [[ $pflev = '2'  ]]; then
+hashcat -m 10500  -a 3 crack.hash -i ?d?d?d?d?d?d --force >/dev/null 2>&1
+fin=$(hashcat -m 10500 crack.hash -a 3 $word --force --show | awk -F: '{ print $2 }')
+if [[ $fin != '' ]]; then
+echo -n -e ${CP}"\n[[ ✔ ] Password Found For ${CP}$file: ${RED}$fin "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+elif [[ $pflev = '3' ]]; then
+hashcat -m 10600  -a 3 crack.hash -i ?d?d?d?d?d?d --force >/dev/null 2>&1
+fin=$(hashcat -m 10500  -a 3 crack.hash --force --show | awk -F: '{ print $2 }')
+if [[ $fin != '' ]]; then
+echo -n -e ${CP}"\n[ ✔ ] Password Found For ${CP}$file: ${RED}$fin "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+elif [[ $pflev = '8' ]]; then
+hashcat -m 10700  -a 3 crack.hash -i ?d?d?d?d?d?d --force >/dev/null 2>&1
+fin=$(hashcat -m 10700  -a 3 crack.hash --force --show | awk -F: '{ print $2 }')
+if [[ $fin != '' ]]; then
+echo -n -e ${CP}"\n[ ✔ ] Password Found For ${CP}$file: ${RED}$fin "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+else
+echo -n -e ${RED}"\n[ X ] Unknown Hash "
+exit
+fi
+rm tmp.hash
+rm crack.hash
+
+elif [[ $cho = 2 ]]; then
+hash_ch
+fi
+}
+#Coded By Machine404! Don't copy this code without giving me credit~
+#https://instagram.com/invisibleclay100
+#https://twitter.com/whoami4041
+#https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+function hash_ch(){
+clear
+banner
+echo -n -e ${CNC}"\n[*] Enter path of wordlist:  "
+read wlst
+sleep 0.5
+echo -n -e ${CP}"\n[*] Checking pdf2john path \n "
+if [[  -f /usr/share/jhon/pdf2john.pl ]]; then
+echo -e -n ${RED}"\n[*] pdf2john path not found.......Exiting!"
+exit
+fi
+sleep 1
+echo -e -n ${BLUE}"\n[*] pdf2john Path Found......Moving Forward :) \n"
+john=$(/usr/share/john/pdf2john.pl $file > tmp.hash)
+cat tmp.hash | awk -F: '{ print $2 }' > crack.hash
+sleep 2
+echo -n -e ${CNC}"\n[*] Cracking Stared on:  $file \n "
+sleep 2
+echo -n -e ${CN}"\n[*] Grab A Coffee & Wait For Sometime :) \n "
+if [[ $pflev = '1'  ]]; then
+hashcat -m 10500 crack.hash -a 0  $wlst --force >/dev/null 2>&1
+fin=$(hashcat -m 10500 crack.hash -a 0 $wlst --force --show | awk -F: '{ print $2 }')
+if [[ $fin != '' ]]; then
+echo -n -e ${CP}"\n[ ✔ ] Password Found For ${CP}$file: ${RED}$fin "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+elif [[ $pflev = '2'  ]]; then
+hashcat -m 10500 crack.hash -a 0 $wlst  --force >/dev/null 2>&1
+fin=$(hashcat -m 10500 crack.hash -a 0 $wlst --force --show | awk -F: '{ print $2 }')
+if [[ $fin != '' ]]; then
+echo -n -e ${CP}"\n[ ✔ ] Password Found For ${CP}$file: ${RED}$fin "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+elif [[ $pflev = '3' ]]; then
+hashcat -m 10600 crack.hash -a 0  $wlst --force >/dev/null 2>&1
+fin=$(hashcat -m 10500 crack.hash -a 0 $wlst --force --show | awk -F: '{ print $2 }')
+if [[ $fin != '' ]]; then
+echo -n -e ${CP}"\n[ ✔ ] Password Found For ${CP}$file: ${RED}$fin "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+elif [[ $pflev = '8' ]]; then
+hashcat -m 10700 crack.hash -a 0  $wlst --force >/dev/null 2>&1
+fin=$(hashcat -m 10700 crack.hash -a 0 $wlst --force --show | awk -F: '{ print $2 }')
+if [[ $fin != '' ]]; then
+echo -n -e ${CP}"\n[ ✔ ] Password Found For ${CP}$file: ${RED}$fin "
+else
+echo -n -e ${RED}"\n[ X ] Password Not Found "
+fi
+else
+echo -n -e ${RED}"\n[ X ] Unknown Hash "
+exit
+fi
+rm tmp.hash
+rm crack.hash
+
+}
+#Coded By Machine404! Don't copy this code without giving me credit~
+#https://instagram.com/invisibleclay100
+#https://twitter.com/whoami4041
+#https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+menu()
+{
+clear
+banner
+echo -e ${YELLOW}"\n[*] Choose Cracking Type: \n "
+echo -e "  ${NC}[${CG}"1"${NC}]${CNC} Dictionary Attack"
+echo -e "  ${NC}[${CG}"2"${NC}]${CNC} Hash Attack"
+echo -e "  ${NC}[${CG}"3"${NC}]${CNC} Exit"
+
+echo -n -e ${YELLOW}"\n[+] Select: "
+        read redi_play
+                if [ $redi_play -eq 1 ]; then
+                        dict_crack
+                elif [ $redi_play -eq 2 ]; then
+                        hash_crack
+                elif [ $redi_play -eq 3 ]; then
+                      exit
+                fi
+}
+banner
+clear
+depend
+hacker
+#Coded By Machine404! Don't copy this code without giving me credit~
+#https://instagram.com/invisibleclay100
+#https://twitter.com/whoami4041
+#https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
