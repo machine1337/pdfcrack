@@ -69,7 +69,7 @@ echo -e ${GREEN} "\n[ ✔ ] pdf-parser.............${GREEN}[ found ]"
 else
 echo -e $red "[ X ] pdf-parser  -> ${RED}not found "
 echo -e ${YELLOW} "[ ! ] Installing pdf-parser "
- apt install pdf-parser -y > /dev/null 2>&1
+ apt-get install pdf-parser -y > /dev/null 2>&1
 
 echo -e ${BLUE} "[ ✔ ] Done installing ...."
 which qpdf > /dev/null 2>&1
