@@ -15,6 +15,9 @@
     
 # How To Use:
    https://www.youtube.com/watch?v=qSW_50TrObc
+   
+# Donations:
+  BTC Addres:  3Dvzx2RKMR731VSEPXXgPyBq6Ln4JJdYPD 
 # Features:
     1. Crack Any PDF password protected file with different Techniques.
     2. This script will install required tool automatically.
