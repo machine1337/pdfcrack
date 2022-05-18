@@ -118,8 +118,8 @@ sleep 1
 function hacker(){
 clear
 banner
-echo -n -e ${ORANGE}"\n[+] Enter path of pdf file : "
-read file
+echo -n -e ${ORANGE}"\n[+] Enter path of pdf file"
+read -e -p ": " file
 
 
 sleep 0.5
@@ -151,8 +151,8 @@ clear
 menu
 }
 function dict_crack(){
-echo -n -e ${CNC}"\n[*] Enter path of wordlist:  "
-read word
+echo -n -e ${CNC}"\n[*] Enter path of wordlist"
+read -e -p ": " word
 sleep 0.5
 echo -n -e ${BLUE2}"\n[*] Cracking Stared on:  $file \n "
 sleep 2
@@ -241,8 +241,8 @@ fi
 function hash_ch(){
 clear
 banner
-echo -n -e ${CNC}"\n[*] Enter path of wordlist:  "
-read wlst
+echo -n -e ${CNC}"\n[*] Enter path of wordlist"
+read -e -p ": " wlst
 sleep 0.5
 echo -n -e ${CP}"\n[*] Checking pdf2john path \n "
 if [[  -f /usr/share/jhon/pdf2john.pl ]]; then
