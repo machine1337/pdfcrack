@@ -179,7 +179,7 @@ read cho
 if [[ $cho = 1 ]]; then
 
 echo -n -e ${CP}"\n[*] Checking pdf2john path \n "
-if [[  -f /usr/share/john/pdf2john.pl ]]; then
+if [[ ! -f /usr/share/john/pdf2john.pl ]]; then
 echo -e -n ${RED}"\n[*] pdf2john path not found.......Exiting!"
 exit
 fi
