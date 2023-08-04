@@ -32,8 +32,8 @@
     5. Very Fast To Crack Any Password Protected File.
     6. More Features will be added in Future IA!
     
-# Follow Me On:
-   1. https://github.com/machine1337
+# Contact:
+   1. https://t.me/machine1337
    
 # Author:
     Coded By: Machine1337
