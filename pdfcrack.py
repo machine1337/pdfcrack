@@ -1,59 +1,62 @@
+# Copyright 2023
+#
+# Authors:
+#  * https://github.com/machine1337/
+#  * https://github.com/jowagner/
+#
+# License: GPLv3, see LICENSE file
+
+import importlib
 import os
 import platform
+import subprocess
+import sys
 import time
+
+auto_install = len(sys.argv) == 1 or '--auto-install-packages' in sys.argv
+
 print("[*] Checking Requirements Module....")
+
 def header():
     ascii_banner = pyfiglet.figlet_format("{PDF CRACKER}").upper()
     print(colored(ascii_banner.rstrip("\n"), 'cyan', attrs=['bold']))
     print(colored("                                <Coded By: Clay>     \n", 'yellow', attrs=['bold']))
     print(colored("                                <Version: 2.0>     \n", 'magenta', attrs=['bold']))
     return
-if platform.system().startswith("Windows"):
-    try:
-        import pikepdf
-    except ImportError:
-        os.system("python -m pip install pikepdf -q -q -q")
-        import pikepdf
-    try:
-        from tqdm import tqdm
-    except ImportError:
-        os.system("python -m pip install tqdm -q -q -q")
-        from tqdm import tqdm
-    try:
-        import termcolor
-    except ImportError:
-        os.system("python -m pip install termcolor -q -q -q")
-        import termcolor
-    from termcolor import colored
-    try:
-        import pyfiglet
-    except ImportError:
-        os.system("python -m pip install pyfiglet -q -q -q")
-        import pyfiglet
-elif platform.system().startswith("Linux"):
-    try:
-        import pikepdf
-    except ImportError:
-        os.system("python3 -m pip install pikepdf -q -q -q")
-        import pikepdf
-    try:
-        from tqdm import tqdm
-    except ImportError:
-        os.system("python3 -m pip install tqdm -q -q -q")
-        from tqdm import tqdm
-    try:
-        import termcolor
-    except ImportError:
-        os.system("python3 -m pip install termcolor -q -q -q")
-        import termcolor
-    from termcolor import colored
-    try:
-        import pyfiglet
-    except ImportError:
-        os.system("python3 -m pip install pyfiglet -q -q -q")
-        import pyfiglet
 
+if auto_install:
+    # need to know how to call python to run pip
+    python_exec = sys.executable
+    if not python_exec:
+        # Python doesn't know the path --> use platform to guess
+        if platform.system().startswith("Windows"):
+            python_exec = 'python'
+        elif platform.system().startswith("Linux"):
+            python_exec = 'python3'
+        else:
+            raise NotImplementedError('unsupported platform')
 
+def my_import(module_name, auto_install = False):
+    global python_exec
+    if not auto_install:
+        module = importlib.import_module(module_name)
+    else:
+        try:
+            module = importlib.import_module(module_name)
+        except ImportError:
+            subprocess.run([
+                python_exec, '-m', 'pip', 'install',
+                module_name, '-q', '-q', '-q',
+            ])
+            module = importlib.import_module(module_name)
+    # https://stackoverflow.com/questions/6347588/is-it-possible-to-import-to-the-global-scope-from-inside-a-function-python
+    globals()[module_name] = module
+
+for module_name in 'pikepdf tqdm termcolor pyfiglet'.split():
+    my_import(module_name, auto_install)
+
+from tqdm import tqdm
+from termcolor import colored
 
 def crack():
     os.system('cls' if os.name == 'nt' else 'clear')
